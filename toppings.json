@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "base": "delgada",
+    "queso": "monterrey",
+    "topping": "peperonni"
+  },
+  {
+    "id": 3,
+    "base": "gruesa",
+    "queso": "parmesano",
+    "topping": "chorizo"
+  }
+]
